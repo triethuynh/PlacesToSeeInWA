@@ -1,8 +1,8 @@
 
 README
+GitHub: https://github.com/triethuynh/PlacesToSeeInWA
 
-In addition to this "Readme.txt" file please refer to folder "Documentation" (within the app structure) for the layout design (LayoutDesign.pdf)
- and folder "screenshotsOfApp" (outside of the app folder structure) for the screenshots of the app via the emulators.
+In addition to this "Readme.txt" file please refer to folder "Documentation" for the layout design (LayoutDesign.pdf) and for the screenshots of the app via the emulators.
 
 Simple app developed as the project for the Android Study Jam.
 The app presents to the user five places to visit in Washington State (year round, event, or seasonal).
