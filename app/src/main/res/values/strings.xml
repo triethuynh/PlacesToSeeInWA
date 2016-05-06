@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Places_in_WA</string>
+    <string name="about_text1">
+Simple app developed as the project to demonstrate part of what I learnt from the Seattle Android Study Jam 2016.
+The app presents to the user five places to visit in Washington State (year round, event, or seasonal).
+    </string>
+
+    <string name="about_text2">
+        It is thanks to the Seattle GDG - Android Study Jam and Udacity that introduces me to Android app development.
+Thank you, Margaret Maynard-Reid, other co-organizer(s), and coaches.
+        This is app is developed using Android Studio on Windows environment. The app is tested with Android emulator as I current do not own an android device.
+    </string>
+
+    <string name="seattle_android_study_jam">Seattle GDG Android Study Jam</string>
+    <string name="seattle_GDG_Meetup_Home">http://www.meetup.com/seattle-gdg/</string>
+-   <string name="author">Triet Huynh</string>
+    <string name="author_email">triethuynh05@outlook.com</string>
+</resources>

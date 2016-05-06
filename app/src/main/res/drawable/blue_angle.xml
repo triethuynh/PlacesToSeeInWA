@@ -1,0 +1,22 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/blueangle01_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle02_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle03_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle04_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle05_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle06_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle07_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle08_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle09_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle10_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle11_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle12_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle13_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/blueangle14_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/lakewashingtonseafair01_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/lakewashingtonseafair02_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/lakewashingtonseafair03_300x168" android:duration="1000" />
+    <item android:drawable="@drawable/lakewashingtonseafair04_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/lakewashingtonseafair05_300x200" android:duration="1000" />
+    <item android:drawable="@drawable/lakewashingtonseafair06_300x200" android:duration="1000" />
+</animation-list>
